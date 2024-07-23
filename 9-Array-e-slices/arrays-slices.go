@@ -24,4 +24,7 @@ func main() {
 
 	fmt.Println(array1, array2, slice, slice2, slice4, array4)
 
+	a := [6] string {"Flavio","Adriana","Lara","Patricia","Manuela","Rita"}
+	fmt.Print(a[0:4])
+
 }
