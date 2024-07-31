@@ -19,7 +19,7 @@ func diaSemana(dia int) string {
 	case 7:
 		return "Sábado"
 	default:
-		return "Opição invalida"
+		return "Opção invalida"
 
 	}
 
